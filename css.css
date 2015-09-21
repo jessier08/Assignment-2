@@ -1,0 +1,33 @@
+/*CSS Document*/
+
+body{
+	margin: auto;
+}
+#red{
+	background-color:red;
+	position:relative;
+	height:15vh;
+}
+#yellow{
+	background-color:yellow;
+	width:33.33%;
+	float:left;
+	height:70vh;
+}
+#green{
+	background-color:green;
+	width:33.33%;
+	float:left;
+	height:70vh;
+}
+#blue{
+	background-color:blue;
+	width:33.33%;
+	float:left;
+	height:70vh;
+}
+#purple{
+	background-color: purple;
+	clear:both;
+	height:15vh;
+}
